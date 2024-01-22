@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../02. Delete-From-Table"
+		},
+		{
+			"path": "../03. Add-Delete"
+		},
+		{
+			"path": "../04. Mouse-Gradient"
+		},
+		{
+			"path": "../05. Highlight-Active"
+		},
+		{
+			"path": "../06. Dynamic-Validation"
+		},
+		{
+			"path": "../07. Shopping-Cart"
+		}
+	]
+}
