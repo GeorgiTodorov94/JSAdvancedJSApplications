@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/server"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/02.Phonebook"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/03.Students"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/04.Book-library"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/05.Fisher-Game"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/06.Furniture"
+		},
+		{
+			"path": "../../03.JS-Applications-Data-and-Authentication-Exercise-Resources/01.Messenger"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "05.Fisher-Game"
+	}
+}
